@@ -1,0 +1,33 @@
+/* Popular Posts by Ibnu Adha Design */
+.Night .popular-posts{background:#2e4054;transition:all .5s ease}.Night .above-post-widget h2 span{background:#15202b;color:#fff}.Night .PopularPosts h2 span{background:#213040;color:#fff;transition:all .5s ease}.popular-posts{background:#1a73e8;background-image:linear-gradient(110deg,rgba(255,255,255,.1) 16%,rgba(255,255,255,.1) 17%,rgba(255,255,255,.05) 17%,rgba(255,255,255,.05) 23%,transparent 8.5%,transparent 78%,rgba(255,255,255,.05) 78%,rgba(255,255,255,.05) 84%,rgba(255,255,255,.1) 84%,rgba(255,255,255,.1));box-shadow:0 2px 2px 0 rgba(0,0,0,.04),0 3px 1px -2px rgba(0,0,0,.05),0 1px 5px 0 rgba(0,0,0,.04);transition:all .5s ease;padding:3px 15px 10px;border-radius:7px}.PopularPosts ul li:hover{background:#3333330f}.PopularPosts .widget-content ul,.PopularPosts .widget-content ul li{margin:0;padding:0;list-style:none;border:none;outline:0}.PopularPosts .widget-content ul li a{color:#fff}.PopularPosts .widget-content ul li img{display:block;width:70px;height:70px;float:left;border-radius:3px 25px}.PopularPosts .widget-content ul li{margin:0;counter-increment:num;position:relative;border-bottom:1px dashed rgba(255,255,255,.35)}.PopularPosts ul li:last-child{margin-bottom:0}.PopularPosts ul li .item-content::before,.PopularPosts ul li .item-thumbnail-only::before,.PopularPosts ul li>a::before{color:#f2994a!important}.PopularPosts ul li .item-content::after,.PopularPosts ul li .item-thumbnail-only::after,.PopularPosts ul li>a::after{background:#efefef}.PopularPosts .item-title{line-height:1.6;margin-right:8px;min-height:40px;font-weight:500}.PopularPosts .item-thumbnail{float:left;margin-right:8px}.PopularPosts .item-snippet{line-height:1.6em;font-size:14px;margin-top:8px;opacity:.925}.PopularPosts ul li>a{padding:6px 20px;min-height:0;color:#fff;font-family:sans-serif;font-size:15px}.popular-posts ul li a:hover{text-decoration:underline}.PopularPosts .widget-content ul,.PopularPosts .widget-content ul li{margin:0;padding:0;list-style:none;border:none;outline:0}.PopularPosts .widget-content ul{margin:0;list-style:none;counter-reset:num}.PopularPosts .widget-content ul li img{display:block;width:70px;height:70px;float:left;border-radius:3px 25px}.PopularPosts .widget-content ul li{margin:0;counter-increment:num;position:relative;transition:all .5s ease;border-bottom:1px dashed rgba(255,255,255,.35)}.PopularPosts ul li:last-child{margin-bottom:0}.PopularPosts ul li .item-content::after,.PopularPosts ul li .item-thumbnail-only::after,.PopularPosts ul li>a::after{background:#efefef}.PopularPosts .item-title{line-height:1.6;margin-right:8px;min-height:40px;font-weight:500}.PopularPosts .item-thumbnail{float:left;margin-right:8px}.PopularPosts .item-snippet{line-height:1.6em;margin-top:8px;opacity:.925}.PopularPosts ul li>a{font-weight:700;font-size:14px}.PopularPosts .item-snippet,.PopularPosts .item-thumbnail,.PopularPosts .item-title{margin-left:15px;margin-bottom:9px;margin-top:5px}.PopularPosts ul li>a{display:block;min-height:0;font-family:Quicksand,-apple-system,BlinkMacSystemFont,'Segoe UI',Oxygen,'Helvetica Neue',sans-serif;font-size:13px;line-height:17px;margin-left:10px}.PopularPosts ul li:before{content:counter(num) '.'!important;position:absolute;top:10px;left:-2px;color:#fff;z-index:1;width:20px;height:20px;font-family:arial;margin-right:12px;font-size:1.5em;font-style:italic}
+.PopularPosts h2{
+    border-bottom:none;
+    width:100%;
+    font:400 14px Poppins,-apple-system,BlinkMacSystemFont,'Segoe UI',Oxygen-Sans,'Helvetica Neue',Arial,sans-serif;
+    color:#1d2129;
+    text-align:left;
+    background:url("data:image/svg+xml,%3Csvg viewBox='0 0 48.34 4.99' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon fill='%231a73e8' points='27.36 0 48.34 0 45.48 4.99 24.5 4.99 27.36 0'%3E%3C/polygon%3E%3Cpolygon fill='%23657786' points='2.86 0 23.84 0 20.98 4.99 0 4.99 2.86 0'%3E%3C/polygon%3E%3C/svg%3E");
+    height:6px;
+    font-size:1rem;
+    position:relative;
+    margin-top:9px;
+    margin-bottom:15px
+}
+.PopularPosts h2 span{
+    background:#ededed;
+    padding-right:10px;
+    top:-12.5px;
+    position:absolute;
+    font-size:18px;
+    transition:all .5s ease;
+    font-weight:700
+}
+.PopularPosts h2 svg{
+    fill:#1a73e8;
+    margin-right:7px;
+    display:inline-block;
+    width:24px;
+    height:24px;
+    background-repeat:no-repeat!important;
+    content:''
+}
